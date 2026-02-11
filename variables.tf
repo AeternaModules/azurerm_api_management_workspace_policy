@@ -1,6 +1,6 @@
-variable "api_management_workspace_policys" {
+variable "api_management_workspace_policies" {
   description = <<EOT
-Map of api_management_workspace_policys, attributes below
+Map of api_management_workspace_policies, attributes below
 Required:
     - api_management_workspace_id
 Optional:
